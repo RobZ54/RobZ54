@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @RobZ54 a Technical Documentation Writer
-- 👀 I’m interested in: Developer Documentation, REST API documentation, User Facing Documents/ instruction manuals
-- 🌱 I’m currently learning: Always improving my technical writing skills through collaborating in ongoing projects 
-- 💞️ I’m looking to collaborate on: Projects that require technical documentation. Current knowledge and use of: HTML, CSS, Javascript
-- 📫 How to reach me: Message me on github 
+<h1>@RobZ54</h1> 
+<br>
+Full Stack Web Development
+
+- Python
+- Javascript
+- HTML and CSS
+<br>
+<p>Currently completing Harvard University's CS50 Course on Web Programming with Python and Javascript.</p>
+
 
 <!---
 RobZ54/RobZ54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
