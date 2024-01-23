@@ -1,12 +1,13 @@
 <h1>@RobZ54</h1> 
 <br>
-Full Stack Web Development
+UX Design
 
-- Python
+- Figma
 - Javascript
 - HTML and CSS
+- React
 <br>
-<p>Currently completing Harvard University's CS50 Course on Web Programming with Python and Javascript.</p>
+<p></p>
 
 
 <!---
